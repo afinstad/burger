@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 51, 102);
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
